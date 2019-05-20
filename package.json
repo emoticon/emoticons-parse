@@ -1,6 +1,6 @@
 {
   "name": "emoticons-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-emoticons icon parse ",
   "main": "index.js",
   "scripts": {
