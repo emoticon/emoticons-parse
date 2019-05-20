@@ -1,0 +1,27 @@
+{
+  "name": "emoticons-parse",
+  "version": "1.0.0",
+  "description": "react-native-emoticons icon parse ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emoticon/emoticons-parse.git"
+  },
+  "keywords": [
+    "react-native-emoticons",
+    "parse"
+  ],
+  "author": "xiewang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emoticon/emoticons-parse/issues"
+  },
+  "homepage": "https://github.com/emoticon/emoticons-parse#readme",
+  "dependencies": {
+    "emoji-datasource": "^4.1.0",
+    "lodash": "^4.17.11"
+  }
+}
